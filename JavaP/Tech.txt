@@ -1,0 +1,3 @@
+101 Kumar 25 Fever
+102 Raj 30 Cold
+103 Prakhar 28 Flu
